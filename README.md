@@ -1,6 +1,6 @@
 ## Overview
 
-The Todo App is a simple and intuitive task management application. It allows users to organize their tasks, mark them as completed, delete unnecessary tasks, and edit existing ones.
+The Todo App is a simple and intuitive task management application. It allows users to organize their tasks, mark them as completed, delete unnecessary tasks, and edit existing ones.  
 Link website: https://todo-list-app-eosin-phi.vercel.app/
 
 ## Features
